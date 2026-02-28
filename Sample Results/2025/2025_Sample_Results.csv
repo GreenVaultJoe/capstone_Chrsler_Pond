@@ -1,0 +1,13 @@
+Sampling Date,Sample Label,Depth (ft),Parameter,Value,Units
+10/01/2025,Shallow Sample,5,Turbidity,3.5,NTU
+10/01/2025,Shallow Sample,5,Conductivity,298.8,µS/cm
+10/01/2025,Shallow Sample,5,Free Reactive Phosphorus,6.1,µg/L
+10/01/2025,Shallow Sample,5,Chlorophyll a,<10,µg/L
+10/01/2025,Shallow Sample,5,Total Phosphorus,14.8,µg/L
+10/01/2025,Shallow Sample,5,Total Nitrogen,0.63,mg/L
+10/01/2025,Deep Sample,7,Turbidity,4.2,NTU
+10/01/2025,Deep Sample,7,Conductivity,466.5,µS/cm
+10/01/2025,Deep Sample,7,Free Reactive Phosphorus,6.6,µg/L
+10/01/2025,Deep Sample,7,Chlorophyll a,33.4,µg/L
+10/01/2025,Deep Sample,7,Total Phosphorus,380,µg/L
+10/01/2025,Deep Sample,7,Total Nitrogen,9.66,mg/L
