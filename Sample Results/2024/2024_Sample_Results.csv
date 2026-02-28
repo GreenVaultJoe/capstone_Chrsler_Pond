@@ -1,37 +1,37 @@
 Date,Client Sample ID,Matrix,Parameter,Value,Units
-6/10/2024,EMF - Water,WATER,Nitrate Nitrogen (As N),ND,mg/L
+6/10/2024,EMF - Water,WATER,"Nitrate, Nitrogen (As N)",ND,mg/L
 6/10/2024,EMF - Water,WATER,Escherichia Coli,1.0,MPN/100mL
-6/10/2024,EMF - Water,WATER,Nitrogen, Ammonia (As N),ND,mg/L
+6/10/2024,EMF - Water,WATER,"Nitrogen, Ammonia (As N)",ND,mg/L
 6/10/2024,EMF - Water,WATER,Total Phosphorus (as P),0.06,mg/L
-6/10/2024,EMF - Water,WATER,Nitrogen, Kjeldahl, Total,ND,mg/L
+6/10/2024,EMF - Water,WATER,"Nitrogen, Kjeldahl", Total,ND,mg/L
 6/10/2024,EMF - Water,WATER,Nitrite Nitrogen (as N),ND,mg/L
-6/10/2024,EMF - Sludge Top,SLUDGE,Nitrogen, Nitrite,ND,µg/g-dry
-6/10/2024,EMF - Sludge Top,SLUDGE,Nitrogen, Nitrate (As N),ND,µg/g-dry
-6/10/2024,EMF - Sludge Top,SLUDGE,Nitrogen, Ammonia (as N),ND,µg/g-dry
+6/10/2024,EMF - Sludge Top,SLUDGE,"Nitrogen, Nitrite",ND,µg/g-dry
+6/10/2024,EMF - Sludge Top,SLUDGE,"Nitrogen, Nitrate (As N)",ND,µg/g-dry
+6/10/2024,EMF - Sludge Top,SLUDGE,"Nitrogen, Ammonia (as N)",ND,µg/g-dry
 6/10/2024,EMF - Sludge Top,SLUDGE,Percent Moisture,95.4,wt%
 6/10/2024,EMF - Sludge Top,SLUDGE,Total Phosphorus (as P),942,µg/g-dry
 6/10/2024,EMF - Sludge Top,SLUDGE,Total Kjeldahl Nitrogen as N,15900,µg/g-dry
-6/10/2024,EMF - Sludge Bottom,SLUDGE,Nitrogen, Nitrite,ND,µg/g-dry
-6/10/2024,EMF - Sludge Bottom,SLUDGE,Nitrogen, Nitrate (As N),ND,µg/g-dry
-6/10/2024,EMF - Sludge Bottom,SLUDGE,Nitrogen, Ammonia (as N),ND,µg/g-dry
+6/10/2024,EMF - Sludge Bottom,SLUDGE,"Nitrogen, Nitrite",ND,µg/g-dry
+6/10/2024,EMF - Sludge Bottom,SLUDGE,"Nitrogen, Nitrate (As N)",ND,µg/g-dry
+6/10/2024,EMF - Sludge Bottom,SLUDGE,"Nitrogen, Ammonia (as N)",ND,µg/g-dry
 6/10/2024,EMF - Sludge Bottom,SLUDGE,Percent Moisture,94.1,wt%
 6/10/2024,EMF - Sludge Bottom,SLUDGE,Total Phosphorus (as P),299,µg/g-dry
 6/10/2024,EMF - Sludge Bottom,SLUDGE,Total Kjeldahl Nitrogen as N,18300,µg/g-dry
-6/10/2024,Center - Water,WATER,Nitrate, Nitrogen (As N),ND,mg/L
+6/10/2024,Center - Water,WATER,"Nitrate, Nitrogen (As N)",ND,mg/L
 6/10/2024,Center - Water,WATER,Escherichia Coli,1.0,MPN/100mL
-6/10/2024,Center - Water,WATER,Nitrogen, Ammonia (As N),ND,mg/L
+6/10/2024,Center - Water,WATER,"Nitrogen, Ammonia (As N)",ND,mg/L
 6/10/2024,Center - Water,WATER,Total Phosphorus (as P),0.08,mg/L
-6/10/2024,Center - Water,WATER,Nitrogen, Kjeldahl, Total,1.1,mg/L
+6/10/2024,Center - Water,WATER,"Nitrogen, Kjeldahl", Total,1.1,mg/L
 6/10/2024,Center - Water,WATER,Nitrite Nitrogen (as N),ND,mg/L
-6/10/2024,Center - Sludge Top,SLUDGE,Nitrogen, Nitrite,ND,µg/g-dry
-6/10/2024,Center - Sludge Top,SLUDGE,Nitrogen, Nitrate (As N),ND,µg/g-dry
-6/10/2024,Center - Sludge Top,SLUDGE,Nitrogen, Ammonia (as N),ND,µg/g-dry
+6/10/2024,Center - Sludge Top,SLUDGE,"Nitrogen, Nitrite",ND,µg/g-dry
+6/10/2024,Center - Sludge Top,SLUDGE,"Nitrogen, Nitrate (As N)",ND,µg/g-dry
+6/10/2024,Center - Sludge Top,SLUDGE,"Nitrogen, Ammonia (as N)",ND,µg/g-dry
 6/10/2024,Center - Sludge Top,SLUDGE,Percent Moisture,93.1,wt%
 6/10/2024,Center - Sludge Top,SLUDGE,Total Phosphorus (as P),626,µg/g-dry
 6/10/2024,Center - Sludge Top,SLUDGE,Total Kjeldahl Nitrogen as N,15600,µg/g-dry
-6/10/2024,Center - Sludge Bottom,SLUDGE,Nitrogen, Nitrite,ND,µg/g-dry
-6/10/2024,Center - Sludge Bottom,SLUDGE,Nitrogen, Nitrate (As N),ND,µg/g-dry
-6/10/2024,Center - Sludge Bottom,SLUDGE,Nitrogen, Ammonia (as N),ND,µg/g-dry
+6/10/2024,Center - Sludge Bottom,SLUDGE,"Nitrogen, Nitrite",ND,µg/g-dry
+6/10/2024,Center - Sludge Bottom,SLUDGE,"Nitrogen, Nitrate (As N)",ND,µg/g-dry
+6/10/2024,Center - Sludge Bottom,SLUDGE,"Nitrogen, Ammonia (as N)",ND,µg/g-dry
 6/10/2024,Center - Sludge Bottom,SLUDGE,Percent Moisture,90.8,wt%
 6/10/2024,Center - Sludge Bottom,SLUDGE,Total Phosphorus (as P),309,µg/g-dry
 6/10/2024,Center - Sludge Bottom,SLUDGE,Total Kjeldahl Nitrogen as N,19900,µg/g-dry
