@@ -1,0 +1,49 @@
+Year,Sampling Date,Zone,Sample Label,Matrix,Depth (ft),Parameter,Value,Units,Standard_Value,Standard_Units
+2024,6/10/2024,Near Device,EMF - Water,WATER,5,Nitrate (as N),ND,mg/L,0.0,µg/L
+2024,6/10/2024,Near Device,EMF - Water,WATER,5,Escherichia Coli,1.0,MPN/100mL,1.0,MPN/100mL
+2024,6/10/2024,Near Device,EMF - Water,WATER,5,Ammonia (as N),ND,mg/L,0.0,µg/L
+2024,6/10/2024,Near Device,EMF - Water,WATER,5,Total Phosphorus,0.06,mg/L,60.0,µg/L
+2024,6/10/2024,Near Device,EMF - Water,WATER,5,"Nitrogen, Kjeldahl, Total",ND,mg/L,0.0,µg/L
+2024,6/10/2024,Near Device,EMF - Water,WATER,5,Nitrite Nitrogen (As N),ND,mg/L,0.0,µg/L
+2024,6/10/2024,Near Device,EMF - Sludge Top,SLUDGE,7,"Nitrogen, Nitrite",ND,µg/g-dry,0.0,µg/g-dry
+2024,6/10/2024,Near Device,EMF - Sludge Top,SLUDGE,7,"Nitrogen, Nitrate (As N)",ND,µg/g-dry,0.0,µg/g-dry
+2024,6/10/2024,Near Device,EMF - Sludge Top,SLUDGE,7,Ammonia (as N),ND,µg/g-dry,0.0,µg/g-dry
+2024,6/10/2024,Near Device,EMF - Sludge Top,SLUDGE,7,Percent Moisture,95.4,wt%,95.4,wt%
+2024,6/10/2024,Near Device,EMF - Sludge Top,SLUDGE,7,Total Phosphorus,942,µg/g-dry,942.0,µg/g-dry
+2024,6/10/2024,Near Device,EMF - Sludge Top,SLUDGE,7,TKN (as N),15900,µg/g-dry,15900.0,µg/g-dry
+2024,6/10/2024,Near Device,EMF - Sludge Bottom,SLUDGE,10,"Nitrogen, Nitrite",ND,µg/g-dry,0.0,µg/g-dry
+2024,6/10/2024,Near Device,EMF - Sludge Bottom,SLUDGE,10,"Nitrogen, Nitrate (As N)",ND,µg/g-dry,0.0,µg/g-dry
+2024,6/10/2024,Near Device,EMF - Sludge Bottom,SLUDGE,10,Ammonia (as N),ND,µg/g-dry,0.0,µg/g-dry
+2024,6/10/2024,Near Device,EMF - Sludge Bottom,SLUDGE,10,Percent Moisture,94.1,wt%,94.1,wt%
+2024,6/10/2024,Near Device,EMF - Sludge Bottom,SLUDGE,10,Total Phosphorus,299,µg/g-dry,299.0,µg/g-dry
+2024,6/10/2024,Near Device,EMF - Sludge Bottom,SLUDGE,10,TKN (as N),18300,µg/g-dry,18300.0,µg/g-dry
+2024,6/10/2024,Pond Center,Center - Water,WATER,5,Nitrate (as N),ND,mg/L,0.0,µg/L
+2024,6/10/2024,Pond Center,Center - Water,WATER,5,Escherichia Coli,1.0,MPN/100mL,1.0,MPN/100mL
+2024,6/10/2024,Pond Center,Center - Water,WATER,5,Ammonia (as N),ND,mg/L,0.0,µg/L
+2024,6/10/2024,Pond Center,Center - Water,WATER,5,Total Phosphorus,0.08,mg/L,80.0,µg/L
+2024,6/10/2024,Pond Center,Center - Water,WATER,5,"Nitrogen, Kjeldahl, Total",1.1,mg/L,1100.0,µg/L
+2024,6/10/2024,Pond Center,Center - Water,WATER,5,Nitrite Nitrogen (As N),ND,mg/L,0.0,µg/L
+2024,6/10/2024,Pond Center,Center - Sludge Top,SLUDGE,7,"Nitrogen, Nitrite",ND,µg/g-dry,0.0,µg/g-dry
+2024,6/10/2024,Pond Center,Center - Sludge Top,SLUDGE,7,"Nitrogen, Nitrate (As N)",ND,µg/g-dry,0.0,µg/g-dry
+2024,6/10/2024,Pond Center,Center - Sludge Top,SLUDGE,7,Ammonia (as N),ND,µg/g-dry,0.0,µg/g-dry
+2024,6/10/2024,Pond Center,Center - Sludge Top,SLUDGE,7,Percent Moisture,93.1,wt%,93.1,wt%
+2024,6/10/2024,Pond Center,Center - Sludge Top,SLUDGE,7,Total Phosphorus,626,µg/g-dry,626.0,µg/g-dry
+2024,6/10/2024,Pond Center,Center - Sludge Top,SLUDGE,7,TKN (as N),15600,µg/g-dry,15600.0,µg/g-dry
+2024,6/10/2024,Pond Center,Center - Sludge Bottom,SLUDGE,10,"Nitrogen, Nitrite",ND,µg/g-dry,0.0,µg/g-dry
+2024,6/10/2024,Pond Center,Center - Sludge Bottom,SLUDGE,10,"Nitrogen, Nitrate (As N)",ND,µg/g-dry,0.0,µg/g-dry
+2024,6/10/2024,Pond Center,Center - Sludge Bottom,SLUDGE,10,Ammonia (as N),ND,µg/g-dry,0.0,µg/g-dry
+2024,6/10/2024,Pond Center,Center - Sludge Bottom,SLUDGE,10,Percent Moisture,90.8,wt%,90.8,wt%
+2024,6/10/2024,Pond Center,Center - Sludge Bottom,SLUDGE,10,Total Phosphorus,309,µg/g-dry,309.0,µg/g-dry
+2024,6/10/2024,Pond Center,Center - Sludge Bottom,SLUDGE,10,TKN (as N),19900,µg/g-dry,19900.0,µg/g-dry
+2025,10/01/2025,Near Device,Shallow Sample,WATER,5,Turbidity,3.5,NTU,3.5,NTU
+2025,10/01/2025,Near Device,Shallow Sample,WATER,5,Conductivity,298.8,µS/cm,298.8,µS/cm
+2025,10/01/2025,Near Device,Shallow Sample,WATER,5,Free Reactive Phosphorus,6.1,µg/L,6.1,µg/L
+2025,10/01/2025,Near Device,Shallow Sample,WATER,5,Chlorophyll A,<10,µg/L,0.0,µg/L
+2025,10/01/2025,Near Device,Shallow Sample,WATER,5,Total Phosphorus,14.8,µg/L,14.8,µg/L
+2025,10/01/2025,Near Device,Shallow Sample,WATER,5,Total Nitrogen,0.63,mg/L,630.0,µg/L
+2025,10/01/2025,Pond Center,Deep Sample,SLUDGE,7,Turbidity,4.2,NTU,4.2,NTU
+2025,10/01/2025,Pond Center,Deep Sample,SLUDGE,7,Conductivity,466.5,µS/cm,466.5,µS/cm
+2025,10/01/2025,Pond Center,Deep Sample,SLUDGE,7,Free Reactive Phosphorus,6.6,µg/L,6.6,µg/L
+2025,10/01/2025,Pond Center,Deep Sample,SLUDGE,7,Chlorophyll A,33.4,µg/L,33.4,µg/L
+2025,10/01/2025,Pond Center,Deep Sample,SLUDGE,7,Total Phosphorus,380,µg/L,380.0,µg/L
+2025,10/01/2025,Pond Center,Deep Sample,SLUDGE,7,Total Nitrogen,9.66,mg/L,9.66,mg/L
