@@ -3,6 +3,12 @@
 
 ---
 
+## Project Summary
+
+This project evaluates whether a seasonal EMF device has reduced harmful algal blooms at Chrysler Pond, NY. Using Sentinel-2 satellite imagery (2017–2025), water quality sensor data, and lab samples, the analysis finds no consistent suppression after deployment. Key insight: bloom activity is highly variable year to year, and 2024 — with the device running — was the worst bloom year on record.
+
+---
+
 ## Project Overview
 
 Harmful Algal Blooms (HABs) are a serious environmental and public health concern for Chrysler Pond in Copake, NY. Certain algae species produce toxins that can harm humans, pets, and aquatic life, and unchecked bloom growth can result in fish kills, foul odors, and a complete loss of recreational use of the pond. Residents who swim, fish, and share stewardship of this water body have a direct stake in its health.
