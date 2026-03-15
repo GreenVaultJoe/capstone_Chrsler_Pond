@@ -1,0 +1,20 @@
+# Capstone Project - Chrysler Pond HAB Analysis
+# Environmental Data Science Certificate Program 2025-2026
+# Yale School of the Environment
+#
+# Install with: pip install -r requirements.txt
+# Python 3.12 recommended
+#
+# Note: Google Earth Engine requires separate authentication:
+#   earthengine authenticate
+# Register a project at: https://code.earthengine.google.com/register
+
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+requests
+openmeteo-requests
+earthengine-api
+geemap
