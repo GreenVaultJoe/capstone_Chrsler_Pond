@@ -132,7 +132,7 @@ Water quality data from this project pertains to a privately used pond. No perso
 
 ```bash
 # Clone the repo
-git clone https://github.com/[your-username]/[repo-name].git
+git clone https://github.com/GreenVaultJoe/capstone_Chrysler_Pond.git
 
 # Install dependencies
 pip install -r requirements.txt
