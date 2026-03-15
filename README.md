@@ -29,8 +29,8 @@ This project is intended for residents who have access to and/or share responsib
 
 ```
 /data
-  /raw              # Original logger CSVs, lab sample PDFs, unprocessed data
-  /cleaned          # Standardized and merged datasets ready for analysis
+  /raw_data              # Original logger CSVs, lab sample PDFs, unprocessed data
+  /cleaned_data          # Standardized and merged datasets ready for analysis
 /notebooks          # Jupyter notebooks for each analysis phase
 /communication      # Slide deck and presentation materials
 README.md
